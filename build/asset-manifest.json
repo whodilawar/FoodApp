@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/FoodApp/static/css/main.a2f6e7ee.chunk.css",
+    "main.js": "/FoodApp/static/js/main.cfc8ccf6.chunk.js",
+    "main.js.map": "/FoodApp/static/js/main.cfc8ccf6.chunk.js.map",
+    "runtime-main.js": "/FoodApp/static/js/runtime-main.8ac6f069.js",
+    "runtime-main.js.map": "/FoodApp/static/js/runtime-main.8ac6f069.js.map",
+    "static/css/2.88343f1e.chunk.css": "/FoodApp/static/css/2.88343f1e.chunk.css",
+    "static/js/2.f599810c.chunk.js": "/FoodApp/static/js/2.f599810c.chunk.js",
+    "static/js/2.f599810c.chunk.js.map": "/FoodApp/static/js/2.f599810c.chunk.js.map",
+    "index.html": "/FoodApp/index.html",
+    "static/css/2.88343f1e.chunk.css.map": "/FoodApp/static/css/2.88343f1e.chunk.css.map",
+    "static/css/main.a2f6e7ee.chunk.css.map": "/FoodApp/static/css/main.a2f6e7ee.chunk.css.map",
+    "static/js/2.f599810c.chunk.js.LICENSE.txt": "/FoodApp/static/js/2.f599810c.chunk.js.LICENSE.txt",
+    "static/media/delivery-guy.c0194ba7.png": "/FoodApp/static/media/delivery-guy.c0194ba7.png",
+    "static/media/product_2.1.f1538554.jpg": "/FoodApp/static/media/product_2.1.f1538554.jpg",
+    "static/media/product_2.2.4967c9cb.jpg": "/FoodApp/static/media/product_2.2.4967c9cb.jpg",
+    "static/media/product_2.3.3914f9eb.jpg": "/FoodApp/static/media/product_2.3.3914f9eb.jpg",
+    "static/media/product_3.1.9c207cdf.jpg": "/FoodApp/static/media/product_3.1.9c207cdf.jpg",
+    "static/media/product_3.2.ebcb16b5.jpg": "/FoodApp/static/media/product_3.2.ebcb16b5.jpg",
+    "static/media/product_3.3.f482f459.jpg": "/FoodApp/static/media/product_3.3.f482f459.jpg",
+    "static/media/product_4.1.3c8ecc49.jpg": "/FoodApp/static/media/product_4.1.3c8ecc49.jpg",
+    "static/media/product_4.2.e82e43e0.jpg": "/FoodApp/static/media/product_4.2.e82e43e0.jpg",
+    "static/media/product_4.3.2df1cebb.png": "/FoodApp/static/media/product_4.3.2df1cebb.png",
+    "static/media/remixicon.css": "/FoodApp/static/media/remixicon.f2616f59.ttf",
+    "static/media/res-logo.2f9021c4.png": "/FoodApp/static/media/res-logo.2f9021c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ac6f069.js",
+    "static/css/2.88343f1e.chunk.css",
+    "static/js/2.f599810c.chunk.js",
+    "static/css/main.a2f6e7ee.chunk.css",
+    "static/js/main.cfc8ccf6.chunk.js"
+  ]
+}
